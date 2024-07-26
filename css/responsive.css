@@ -1,0 +1,471 @@
+/* Normal desktop :1700px. */
+@media (min-width: 1701px) and (max-width: 1920px) {
+
+
+
+}
+/* Normal desktop :1500px. */
+@media (min-width: 1500px) and (max-width: 1700px) {
+.sticky-nav .search-box-btn.search-box-outer i {
+    left: 15px;
+}
+
+
+
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1300px) and (max-width: 1499px) {
+.sticky-nav .heder-menu {
+    left: 7%;
+}
+
+
+}
+/* Normal desktop :1176px. */
+@media (min-width: 1176px) and (max-width: 1299px) {
+.service-title p {
+    font-size: 13px;
+    line-height: 25px;
+}
+.slider-title p {
+    font-size: 16px;
+}
+.section-title h3 {
+    font-size: 50px;
+}
+.about-area {
+    padding: 200px 0 70px 0;
+}
+.skill-title p {
+    font-size: 15px;
+    line-height: 26px;
+}
+.testi-text p {
+    font-size: 21px;
+}
+.blog-title h2 a {
+    font-size: 20px;
+}
+.icon-box-content {
+    overflow: hidden;
+}
+.heder-menu ul li {
+    margin-right: 18px;
+}
+.sticky-nav .heder-menu {
+    left: 0%;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1175px) {
+.heder-menu {
+    right: -30px;
+}
+.sticky-nav .heder-menu {
+    left: -3%;
+}
+.slider-title p {
+    font-size: 15px;
+}
+.sticky-nav .heder-menu ul li a {
+    font-size: 15px;
+}
+.service-title p {
+    font-size: 12px;
+    line-height: 23px;
+}
+.section-title h3 {
+    font-size: 49px;
+}
+.about-area {
+    padding: 200px 0 70px 0;
+}
+.skill-title h2 {
+    font-size: 30px;
+}
+.skill-title p {
+    font-size: 15px;
+}
+.testi-text p {
+    font-size: 20px;
+}
+.blog-title h2 a {
+    font-size: 20px;
+}
+.icon-box-content {
+    overflow: hidden;
+}
+.heder-menu ul li a {
+    font-size: 15px;
+}
+.resent-title a h3 {
+    font-size: 14px;
+}
+.sub-title p {
+    font-size: 15px;
+}
+.heder-menu ul li {
+    margin-right: 11px;
+}
+.heder-menu {
+    right: -20px;
+}
+.heder-menu ul li {
+    margin-right: 14px !important;
+}
+.heder-menu ul li a {
+    font-size: 15px !important;
+}
+.sticky-nav {
+    padding: 0 35px 7px;
+}
+}
+/* small mobile :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.slider-area {
+    margin-top: 0!important;
+}
+.slider-title p {
+    width: 65%;
+    font-size: 16px;
+}
+.service-title p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.about-area {
+    padding: 200px 0 70px 0;
+}
+.testi-thumb img {
+    width: 20%;
+}
+.testi-thumb {
+    top: -20%;
+}
+.testi-text p {
+    width: 90%;
+    font-size: 17px;
+}
+.blog-button {
+    top: 100px;
+}
+.footer-text p {
+    font-size: 15px;
+    line-height: 26px;
+    width: 80%;
+}
+.breadcumb-area {
+    margin-top: 0;
+}
+.portfolio-title ul li strong {
+    font-size: 14px;
+    margin-right: 0;
+}
+.portfolio-title ul li {
+    font-size: 13px;
+}
+.portfolio-thumb img {
+    width: 100%;
+}
+
+
+
+}
+/* small mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.slider-area {
+    margin-top: 0;
+}
+.slider-title h2 {
+    font-size: 50px;
+}
+.slider-title h1 {
+    top: 37%;
+}
+.slider-title p {
+    font-size: 16px;
+    width: 100%;
+}
+.about-area {
+    padding: 200px 0 70px 0;
+}
+.portfolio_menu ul li {
+    font-size: 12px;
+    padding: 12px 13px 11px;
+    margin: 0 2px;
+}
+.section-title h3 {
+    font-size: 40px;
+}
+.section-title h2 {
+    font-size: 35px;
+}
+.testi-thumb img {
+    width: 30%;
+}
+.testi-thumb {
+    top: -23%;
+}
+.testi-text p {
+    width: 85%;
+    font-size: 13px;
+}
+.testi-single-box::after {
+    width: 357px;
+    height: 100%;
+}
+.blog-button {
+    display: none;
+}
+.contact-title p {
+    font-size: 14px;
+}
+.icon-box-content {
+    overflow: hidden;
+}
+.icon-box-content span {
+    font-size: 15px;
+}
+.footer-text p {
+    font-size: 14px;
+    width: 95%;
+}
+.breadcumb-area {
+    margin-top: 0;
+}
+.blog-tex p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.resent-thunb img {
+    width: 15%;
+    height: 61px;
+}
+.portfolio-title h2 {
+    padding-bottom: 10px;
+    margin-top: 40px;
+}
+.portfolio-area {
+    padding: 90px 0 50px;
+}
+.portfolio-bottom p {
+    font-size: 13px;
+}
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+.about-area {
+    padding: 200px 0 70px 0;
+}
+.slider-area {
+    margin-top: 0;
+}
+.footer-logo img {
+    width: 80%;
+}
+.slider-title h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+}
+.slider-title h1 span.ityped {
+    padding: 12px 10px;
+    border: 3px solid #fff;
+}
+.slider-title h1 {
+    top: 37%;
+    font-size: 15px;
+}
+.slider-title h1 span.ityped-cursor {
+    left: -16px;
+    top: -2px;
+}
+.slider-title p {
+    font-size: 11px;
+    width: 100%;
+    line-height: 21px;
+    margin: 31px 0;
+}
+.slider-area {
+    height: 630px;
+}
+.slider-content {
+    margin-left: 10px;
+}
+.slider-icon {
+    text-align: center;
+}
+.service-title p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.section-title h3 {
+    font-size: 32px;
+}
+.section-title h2 {
+    font-size: 30px;
+}
+.sub-title h5 {
+    font-size: 16px;
+}
+.sub-title p {
+    font-size: 12px;
+}
+.icon-title h2 span {
+    margin-left: 0;
+}
+.about-area .icon-box {
+    padding-right: 10px;
+}
+.portfolio_menu ul li {
+    font-size: 13px;
+    padding: 12px 12px 11px;
+    margin: 0 5px 7px;
+}
+.single_portfolio_content h3 a {
+    font-size: 25px;
+}
+.portfolio_area {
+    padding: 80px 0 50px;
+}
+.skill-title h2 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.skill-title p {
+    font-size: 13px;
+    line-height: 20px;
+    margin: 5px 0 15px 0;
+}
+.single-skill-box {
+    margin: 0px 0 30px 0;
+}
+.testi-text p {
+    width: 100%;
+    font-size: 13px;
+}
+.testi-thumb img {
+    width: 50%;
+}
+.testi-thumb {
+    top: -20%;
+}
+.testi-single-box::before {
+    bottom: -22px;
+    right: 17px;
+}
+.blog-button {
+    display: none;
+}
+.blog-area .section-title h3 {
+    font-size: 26px;
+}
+.blog-area .section-title h2 {
+    font-size: 30px;
+}
+.blog-title h2 a {
+    font-size: 20px;
+}
+.contact-area .section-title h2 {
+    font-size: 30px;
+}
+.single-contact-box {
+    padding: 2px 5px 15px 0;
+    margin: 0px 0px 0px 0px;
+}
+.contact-title p {
+    font-size: 15px;
+    line-height: 23px;
+}
+.contact-icon {
+    margin-right: 10px;
+}
+.icon-box-content {
+    overflow: hidden;
+}
+.icon-box-content span {
+    font-size: 14px;
+    line-height: 20px;
+}
+.footer-text p {
+    font-size: 13px;
+    line-height: 22px;
+    width: 100%;
+}
+.breadcumb-area {
+    margin-top: 0;
+}
+.blog-area.upper .blog-title h2 a {
+    font-size: 18px;
+}
+.blog-area.upper .blog-title {
+    padding: 28px 20px 30px;
+}
+.blog-tex p {
+    font-size: 12px;
+    line-height: 23px;
+}
+.resent-title a h3 {
+    font-size: 14px;
+}
+.breadcumb-title h1 {
+    font-size: 40px;
+}
+.portfolio-thumb img {
+    width: 100%;
+}
+.portfolio-title h2 {
+    font-size: 19px;
+    padding-bottom: 0;
+    margin-top: 30px;
+}
+.portfolio-icon ul li {
+    margin-right: 0;
+}
+.portfolio-share {
+    margin-right: 8px;
+}
+.portfolio-icon ul li a {
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    font-size: 12px;
+}
+.portfolio-bottom h2 {
+    font-size: 23px;
+}
+.portfolio-bottom p {
+    font-size: 13px;
+}
+.portfolio-area {
+    padding: 90px 0 50px;
+}
+.copy-right-text h4 {
+    font-size: 15px;
+}
+
+
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+
+.main-header {
+    display: none!important;
+}
+header.main-header {
+    display: none;
+}
+.top-header {
+    display: none;
+}
+
+
+
+
+}
+
